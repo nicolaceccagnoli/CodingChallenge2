@@ -1,0 +1,73 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  height: 100vh;
+  background-repeat: no-repeat;
+  margin:0;
+  padding-top: 30px;
+}
+
+header, nav{
+  text-align: center;
+}
+
+.logo{
+  width:200px;
+  text-align: center;
+}
+
+.A-B{
+  color:#00FF00;
+  margin:0;
+}
+
+.commands{
+  background-color:#00FF00;
+  width: 100%;
+  padding: 10px;
+}
+
+.battery{
+  background-color:#f9b248;
+  width: 36%;
+  height:25px;
+  border-radius: 5px;
+}
+
+.battery2{
+  background-color:#00b906;
+  width: 61%;
+  height:25px;
+  border-radius: 5px;
+}
+
+.battery3{
+  background-color:#c83349;
+  width: 17%;
+  height:25px;
+  border-radius: 5px;
+}
+
+h3{
+  display: inline-block;
+  color: white;
+  margin-bottom: 0;
+  margin-top: 20px;
+  font-size: 19px;
+}
+
+.positions{
+  color: white;
+}
+
+.square{
+  background-position: center;
+  background-color: hsl(12, 10%, 8%, 0.7);
+  padding: 80px 70px;
+  width: 60%;
+  margin:auto;
+  border-radius: 15px;
+
+}
